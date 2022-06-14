@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "atlas",
+      "email": "atlasbarman@gmail.com",
+      "mobile": "465461398751",
+      "address": "edirne",
+      "services": "coctail bar"
+    },
+    {
+      "id": 5,
+      "name": "Mustafa Baykuş",
+      "email": "mustafabaykus15@gmail.com",
+      "mobile": "507194685821",
+      "address": "Yenidoğan mahallesi çetin sokak no:22 daire 15",
+      "services": "bar"
+    },
+    {
+      "id": 6,
+      "name": "Baykuş Mustafa",
+      "email": "baykusmustafa@gmail.com",
+      "mobile": "212587946",
+      "address": "Istanbul",
+      "services": "chai & coffee"
+    }
+  ]
+}
