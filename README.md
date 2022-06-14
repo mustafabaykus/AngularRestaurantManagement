@@ -2,20 +2,20 @@
 
 ## What does this project do ? :raised_eyebrow: 
 
-This project enables to fetch data from website using **HttpClientModule** and show the data. Then by pressing "Pick Randomly" button, you can get random user data.
+In this project, you can keep the information of restaurants, add and delete restaurants.Using **json-server** to store the data and for fetching data **HttpClientModule**.
 
 ## Version :computer:
 
-This project was generated with **Angular** version 13.3.6
+This project was generated with **AngularCLI** version 14.0.2
 
 ## Recordings :film_projector:
 
-![20220526_000351](https://user-images.githubusercontent.com/81719028/170367037-831ba95b-4c3b-43e6-831b-ad4c24f5627b.gif)
+![20220614_122655](https://user-images.githubusercontent.com/81719028/173544709-1bc55c57-da47-470a-acac-2ea6ea6fccf7.gif)
 
 
 ## Development server :file_folder:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+First run `json-server --watch db.json` for starting json-server then run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Build :rocket:
 
